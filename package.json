@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EHB-MCT/web-2-backend-22-23-rokussadee.git"
+    "url": "git+https://github.com/rokussadee/discjunky-api.git"
   },
   "keywords": [],
   "author": "",
   "type": "commonjs",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EHB-MCT/web-2-backend-22-23-rokussadee/issues"
+    "url": "https://github.com/rokussadee/discjunky-api/issues"
   },
-  "homepage": "https://github.com/EHB-MCT/web-2-backend-22-23-rokussadee#readme",
+  "homepage": "https://github.com/rokussadee/discjunky-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
