@@ -6,15 +6,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "engines": {
-    "node": "14.x"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rokussadee/discjunky-api.git"
-  },
-  "keywords": [],
-  "author": "",
   "type": "commonjs",
   "license": "ISC",
   "bugs": {
