@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
 const app = express();
-const port = process.env.PORT || 8888
+const port = process.env.PORT || 3000 
 
 // https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/
 // https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design

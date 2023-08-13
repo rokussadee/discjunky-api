@@ -1,0 +1,11 @@
+{
+  "projectName": "discjunkyapi",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "node17"
+  },
+  "hash": "39f483e3",
+  "domain": "discjunkyapi.mdbgo.io"
+}
